@@ -19,4 +19,4 @@ The CSS file provides styles for the following:
 - Heading Group: Styles for the heading text and spans.
 
 
-[![Watch the video](VideoDemo.mov)
+[![Watch the video](VideoDemo.mov)]
