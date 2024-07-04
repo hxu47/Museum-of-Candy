@@ -17,3 +17,5 @@ The CSS file provides styles for the following:
 - Content: Adds margins to content sections.
 - Navbar: Styles for the navigation bar, including hover effects and a scroll effect.
 - Heading Group: Styles for the heading text and spans.
+
+![VideoDemo.mov]
